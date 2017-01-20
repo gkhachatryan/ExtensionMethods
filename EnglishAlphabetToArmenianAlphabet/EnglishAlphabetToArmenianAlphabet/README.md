@@ -23,3 +23,4 @@ string text = Console.ReadLine();
 Console.WriteLine(text.ToArmenianAlphabet());
 ```
 # Result
+![GitHub Logo](result.png)
